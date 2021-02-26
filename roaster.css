@@ -1,0 +1,41 @@
+h1 {
+    text-align: left;
+    color: #FFFF;
+}
+
+
+
+p {
+    text-align: center;
+    color: #FFFF
+}
+
+body {
+    background-color: #5c5137;
+}
+
+footer {
+	background-color: #c9a06d;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+
+.jumbotron-fluid {
+    background-image: url('http://static1.squarespace.com/static/56a2785c69a91af45e06a188/56a27b2742f552ee7c6d797d/5e1f3d2fc31424453fb3a1d0/1579106575456/Restaurant-Cafe-Features2020.png?format=1500w');
+    padding: 15%;
+}
+
+.btn-secondary {
+    float: left;
+}
+
+.jumbotron {
+    background-image: url('https://www.wideopeneats.com/wp-content/uploads/2017/08/Quick-Chickory-Coffee.jpg');
+    background-size: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
