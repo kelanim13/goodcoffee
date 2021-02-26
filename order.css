@@ -1,14 +1,16 @@
 h1 {
     text-align: center;
+    color: #5c5137
 }
 
 p {
     text-align: center;
+    text-decoration: underline;
 }
 
-.card {
-    margin-right: 40%;
-    margin-left: 25%;
-    width: 50%
-
+.locations {
+    background-color: #5c5137;
+    color: #FFFF;
+    text-align: center;
 }
+
