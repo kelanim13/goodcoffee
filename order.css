@@ -14,3 +14,12 @@ p {
     text-align: center;
 }
 
+.card-header {
+    background-color: #5c5137;
+    color: #FFFF;
+}
+
+.form-check-input {
+   align-items: center;
+}
+
